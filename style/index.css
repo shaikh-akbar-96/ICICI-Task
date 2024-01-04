@@ -19,6 +19,9 @@ body {
   height: 560px;
   background-color: #f6f6f6;
 }
+.icici_container .icici_nav {
+  color: #fff;
+}
 .icici_container .icici_logo {
   display: block;
   width: 228px;
